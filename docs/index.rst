@@ -1,7 +1,7 @@
-Welcome to Agrishop
+Welcome to SAHAGRI 
 ===================
 
-Agrishop is your one-stop-shop for all your farming needs. We offer a wide range of products, from seeds and fertilizers to tools and equipment.
+SAHAGRI is your one-stop-shop for all your farming needs. We offer a wide range of products, from seeds and fertilizers to tools and equipment.
 
 Our Products
 ------------
