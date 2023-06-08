@@ -14,6 +14,8 @@ Our Products
 
 - Equipment: Our equipment includes irrigation systems, greenhouses, and more.
 
+- API: Our API allows developers to integrate our products and services into their own applications. Check out our API documentation for more information on how to get started.
+
 Visit our store or shop online to see our full range of products.
 
 Contact Us
